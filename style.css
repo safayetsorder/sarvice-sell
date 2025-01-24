@@ -189,3 +189,49 @@ body {
 .card-testube p {
     color: white;
 }
+
+/* 2nd tearm end  */
+/* 3rd tearm start  */
+.get-quality-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    gap: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.get-image {
+    width: 100%;
+    height: 354.92px;
+}
+
+.get-course {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.learn-more {
+    background-color: #96BB7C;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 25px;
+    font-size: 12px;
+}
+
+.get-course h1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+.get-course p {
+    margin-bottom: 25px;
+    color: rgb(166, 159, 159);
+    font-size: 12px;
+
+
+}
