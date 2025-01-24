@@ -197,8 +197,7 @@ body {
     justify-content: center;
     margin-top: 25px;
     gap: 25px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-bottom: 45px;
 }
 
 .get-image {
@@ -234,4 +233,36 @@ body {
     font-size: 12px;
 
 
+}
+
+.footer-container {
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding-top: 25px;
+    gap: 25px;
+    margin-bottom: 25px;
+}
+
+.footer-style {
+    padding: 20px;
+    gap: 17px;
+
+}
+
+.footer-style p {
+    font-size: 12px;
+    color: rgb(193, 189, 189);
+    gap: 15px;
+}
+
+.footer-style i {
+    color: #96BB7C;
+}
+
+.footer-style h5 {
+    margin-bottom: 20px;
+}
+
+.last-footer {
+    color: rgb(101, 99, 99);
 }
