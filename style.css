@@ -360,3 +360,28 @@ h1 {
 }
 
 /* footer end  */
+/* for mobile phone start  */
+
+@media only screen and (max-width: 750px) {
+
+    .middle-header-hero-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+
+    .get-quality-container {
+        flex-direction: column;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+
+/* for mobile phone end  */
